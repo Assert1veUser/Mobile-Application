@@ -1,4 +1,4 @@
-package ru.mirea.markinaa.layouttype;
+package ru.mirea.markinaa.control_lesson1;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -9,6 +9,6 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_second);
+        setContentView(R.layout.activity_main);
     }
 }
